@@ -10,7 +10,7 @@ A very humble series of notebooks for beginners in Python
 #### NB-2. Lists, some built-in functions
 
 * Data type - Lists - Indexing and Slicing
-* Built in list functions : len, max, min, append, insert, count, and set¶
+* Built in list functions : len, max, min, append, insert, count, and set
 * Exercises : Draw a pyramid, get prepare for the great loop experience
 
 #### NB-3. For loops
