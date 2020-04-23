@@ -1,4 +1,4 @@
-# qt_academy_python_beginners
+# Quantrack Python crash course
 A very humble series of notebooks for beginners in Python
 
 #### NB-1. Python Basics
