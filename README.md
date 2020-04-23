@@ -12,3 +12,9 @@ A very humble series of notebooks for beginners in Python
 * Data type - Lists - Indexing and Slicing
 * Built in list functions : len, max, min, append, insert, count, and set¶
 * Exercises : Draw a pyramid, get prepare for the great loop experience
+
+#### NB-3. For loops
+
+* For loops, introduction
+* Continue and Break Statement
+* Exercises and nested loops
