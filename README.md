@@ -1,6 +1,8 @@
 # Quantrack Python crash course
 A very humble series of notebooks for beginners in Python
 
+If you want to attend the course, please e-mail me at info@quantrack.io
+
 #### NB-1. Python Basics
 
 * Basic String manipulations and variable assignment 
@@ -18,3 +20,4 @@ A very humble series of notebooks for beginners in Python
 * For loops, introduction
 * Continue and Break Statement
 * Exercises and nested loops
+
