@@ -1,9 +1,9 @@
 # Quantrack Python crash course
 A very humble series of notebooks for beginners in Python 3.
 
-If you want to attend the course, please e-mail me at info@quantrack.io
-If you are interested in machine learning, you can check out our blog : https://quantrack.github.io
-Our articles are featured in 
+If you want to attend the course, please e-mail me at info@quantrack.io  
+If you are interested in machine learning, you can check out our blog : https://quantrack.github.io    
+Our articles are featured in secjuice.com , an amazing community-driven Cyber-security blog.   
 
 #### NB-1. Python Basics
 
