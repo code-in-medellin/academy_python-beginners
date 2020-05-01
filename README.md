@@ -32,3 +32,9 @@ Notebooks also include exercises with corrections. Feel free to fork, clone, and
 * Definitions - Syntax in Python 
 * Calling a function in Python
 * Exercises with solutions
+
+#### 5. Notebook of exercises 
+
+* Basic statements, strings, print.
+* For loop - if/else conditions - lists.
+* Miscellaneous - maths stuff
