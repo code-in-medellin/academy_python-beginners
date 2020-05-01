@@ -5,7 +5,7 @@ If you want to attend the course  *-it's in spanish*, please e-mail me at info@q
 If you are interested in machine learning, you can check out our blog : https://quantrack.github.io    
 Our articles are featured in www.secjuice.com , an amazing community-driven Cyber-security blog.   
 
-How to use this series of notebooks ? Each notebook is divided into three part, the last one being exercises and examples. You will also find what I call *experiences*, they are very simple example you can try and do as an exercise. If you want more exercises and examples you can on [hackerrank.com](hackerrank.com), a great website for self-taught programmers.
+How to use this series of notebooks ? Each notebook is divided into three part, the last one being exercises and examples. You will also find what I call *experiences*, they are very simple example you can try and do as an exercise. If you want more exercises and examples you can check out [hackerrank.com](hackerrank.com), a great website for self-taught programmers.
 
 Notebooks also include exercises with corrections. Feel free to fork, clone, and pull this repo !
 
