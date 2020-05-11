@@ -3,6 +3,8 @@ A very humble series of notebooks for beginners in Python 3.
 
 If you want to attend the course  *-it's in spanish*, please e-mail me at info@quantrack.io  
 If you are interested in machine learning, you can check out our blog : https://quantrack.github.io      
+If you want to organize training : https://quantrackacademy.io  
+
 Our articles are featured in www.secjuice.com , an amazing community-driven Cyber-security blog.     
 We are also on [meet-up](https://www.meetup.com/fr-FR/Quantrack/members/?sort=join_date&desc=true)  
 
