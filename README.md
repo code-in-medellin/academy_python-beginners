@@ -47,3 +47,10 @@ Notebooks also include exercises with corrections. Feel free to fork, clone, and
 * Syntax and common operations
 * Accessing items and basic functions
 * Exercises
+
+#### 7. Pandas, NumPy : Basics
+
+* Getting started - Object creation
+* Basic commands - Part 1.
+* Basic commands - Part 2.
+
