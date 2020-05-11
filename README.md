@@ -41,3 +41,9 @@ Notebooks also include exercises with corrections. Feel free to fork, clone, and
 * Basic statements, strings, print.
 * For loop - if/else conditions - lists.
 * Miscellaneous - maths stuff
+
+#### 6. Dictionaries
+
+* Syntax and common operations
+* Accessing items and basic functions
+* Exercises
