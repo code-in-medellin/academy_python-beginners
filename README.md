@@ -1,4 +1,4 @@
-# Quantrack Python crash course
+# Quantrack Python crash course - Data Analysis using Python
 A very humble series of notebooks for beginners in Python 3.
 
 If you want to attend the course  *-it's in spanish*, please e-mail me at info@quantrack.io  
