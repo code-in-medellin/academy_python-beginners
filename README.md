@@ -1,4 +1,4 @@
-# Quantrack Python crash course - Data Analysis using Python
+# Quantrack Python crash course - Data-analysis using Python
 A very humble series of notebooks for beginners in Python 3.
 
 If you want to attend the course  *-it's in spanish*, please e-mail me at info@quantrack.io  
@@ -50,9 +50,15 @@ Notebooks also include exercises with corrections. Feel free to fork, clone, and
 * Accessing items and basic functions
 * Exercises
 
-#### 7. Pandas, NumPy : Basics
+#### 7. Pandas, NumPy : Basics - Part.1
 
 * Getting started - Object creation
 * Basic commands - Pandas Series
 * Basic commands - Your first Pandas DataFrame
+
+#### 8. Pandas, NumPy : Basics - Part.2
+
+* Basic commands - Boolean Indexing and missing data
+* Load Data - os package - a few pre-processing commands
+* Operations - Basic statistics - Your first seaborn visualization
 
