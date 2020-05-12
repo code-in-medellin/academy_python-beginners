@@ -53,6 +53,6 @@ Notebooks also include exercises with corrections. Feel free to fork, clone, and
 #### 7. Pandas, NumPy : Basics
 
 * Getting started - Object creation
-* Basic commands - Part 1.
-* Basic commands - Part 2.
+* Basic commands - Pandas Series
+* Basic commands - Your first Pandas DataFrame
 
