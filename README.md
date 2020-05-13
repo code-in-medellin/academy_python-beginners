@@ -8,9 +8,9 @@ If you want to organize training : https://quantrackacademy.io
 Our articles are featured in www.secjuice.com , an amazing community-driven Cyber-security blog.     
 We are also on [meet-up](https://www.meetup.com/fr-FR/Quantrack/members/?sort=join_date&desc=true)  
 
-How to use this series of notebooks ? Each notebook is divided into three part, the last one being exercises and examples. You will also find what I call *experiences*, they are very simple example you can try and do as an exercise. If you want more exercises and examples you can check out [hackerrank.com](hackerrank.com), a great website for self-taught programmers.
+If you want more exercises and examples you can check out [hackerrank.com](hackerrank.com), a great website for self-taught programmers.
 
-Notebooks also include exercises with corrections. Feel free to fork, clone, and pull this repo !
+Notebooks also include exercises with corrections. Feel free to fork, clone, and pull-request on this repo !
 
 
 
