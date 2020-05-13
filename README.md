@@ -1,7 +1,7 @@
 # Quantrack Python crash course - Data-analysis using Python
 A very humble series of notebooks for beginners in Python 3.
 
-If you want to attend the course  *-it's in spanish*-, please e-mail me at info@quantrack.io  
+If you want to attend the course  *-it's in spanish*-, please e-mail me at info@quantrack.io to join the *spanish-speaking*Slack.
 If you are interested in machine learning, you can check out our blog : https://quantrack.github.io      
 If you want to organize training : https://quantrackacademy.io  
 
@@ -12,7 +12,7 @@ If you want more exercises and examples you can check out [hackerrank.com](hacke
 
 Notebooks also include exercises with corrections. Feel free to fork, clone, and pull-request on this repo !
 
-
+I will share student's projects on this Git.
 
 #### 1. Python Basics
 
