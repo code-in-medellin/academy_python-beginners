@@ -2,13 +2,14 @@
 A very humble series of notebooks for beginners in Python 3.
 
 If you want to attend the course  *-it's in spanish*-, please e-mail me at info@quantrack.io, you will be able to join the *spanish-speaking* Slack.  
-If you are interested in machine learning, you can check out our blog : https://quantrack.github.io      
-If you want to organize training within your company: https://quantrackacademy.io  
+If you want to organize training within your company: https://quantrackacademy.io    
 
-Our articles are featured in www.secjuice.com , an amazing community-driven Cyber-security blog.     
-We are also on [meet-up](https://www.meetup.com/fr-FR/Quantrack/members/?sort=join_date&desc=true)  
 
 If you want more exercises and examples you can check out [hackerrank.com](hackerrank.com), a great website for self-taught programmers.
+
+If you are interested in machine learning, you can check out our blog : https://quantrack.github.io      
+Our articles are featured in www.secjuice.com , an amazing community-driven Cyber-security blog.     
+We are also on [meet-up](https://www.meetup.com/fr-FR/Quantrack/members/?sort=join_date&desc=true)  
 
 Notebooks also include exercises with corrections. Feel free to fork, clone, and pull-request on this repo !
 
