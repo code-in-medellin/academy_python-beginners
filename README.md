@@ -1,7 +1,7 @@
 # Quantrack Python crash course - Data-analysis using Python
 A very humble series of notebooks for beginners in Python 3.
 
-If you want to attend the course  *-it's in spanish*-, please e-mail me at info@quantrack.io, you will be able to join the *spanish-speaking* Slack.
+If you want to attend the course  *-it's in spanish*-, please e-mail me at info@quantrack.io, you will be able to join the *spanish-speaking* Slack.  
 If you are interested in machine learning, you can check out our blog : https://quantrack.github.io      
 If you want to organize training within your company: https://quantrackacademy.io  
 
