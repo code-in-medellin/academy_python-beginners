@@ -13,7 +13,7 @@ We are also on [meet-up](https://www.meetup.com/fr-FR/Quantrack/members/?sort=jo
 
 Notebooks also include exercises with corrections. Feel free to fork, clone, and pull-request on this repo !
 
-I will share student's projects on this Git.
+I will share student's projects on this Git and add some more explanations to the notebook.
 
 #### 1. Python Basics
 
