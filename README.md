@@ -1,4 +1,4 @@
-# Quantrack Python crash course - Data-analysis using Python
+# Quantrack Python crash course - data-analysis using Python
 ## [Course planning here](https://github.com/quantrack/qt_academy_python_beginners/blob/master/course_plan.pdf)
 
 A very humble series of notebooks for beginners in Python 3. You will also find various presentations on **talks** folders, including our meet-up.
@@ -39,4 +39,4 @@ We are also on [meet-up](https://www.meetup.com/fr-FR/Quantrack/members/?sort=jo
 
 Notebooks also include exercises with corrections. Feel free to fork, clone, and pull-request on this repo !
 
-I will share student's projects on this Git and add some more explanations to the notebook.
+I will share student's projects on this Git and add some more explanations in the notebooks.
