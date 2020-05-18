@@ -2,13 +2,15 @@
 A very humble series of notebooks for beginners in Python 3. You will also find various presentations on **talks** folders, including our meet-up.
 
 If you want to attend the course  *-it's in spanish*-, please e-mail me at info@quantrack.io, you will be able to join the *spanish-speaking* Slack.  
+
 If you want to organize training within your company: https://quantrackacademy.io    
 
 
 If you want more exercises and examples you can check out [hackerrank.com](hackerrank.com), a great website for self-taught programmers.
 
 If you are interested in machine learning, you can check out our blog : https://quantrack.github.io      
-Our articles are featured in www.secjuice.com , an amazing community-driven Cyber-security blog.     
+Our articles are featured in www.secjuice.com , an amazing community-driven Cyber-security blog.  
+
 We are also on [meet-up](https://www.meetup.com/fr-FR/Quantrack/members/?sort=join_date&desc=true)  
 
 Notebooks also include exercises with corrections. Feel free to fork, clone, and pull-request on this repo !
@@ -62,4 +64,10 @@ I will share student's projects on this Git and add some more explanations to th
 * Basic commands - Boolean Indexing and missing data
 * Load Data - os package - a few pre-processing commands
 * Operations - Basic statistics - Your first seaborn visualization
+
+#### 8. Pandas, NumPy : Exercises only - Part.1
+
+* Pandas Series 
+* Pandas DataFrames
+* A little bit of maths
 
