@@ -9,24 +9,21 @@ A very humble series of notebooks for beginners in Python 3. You will also find 
 
 
 
+### I. Python Syntax - Part 1.
 
 #### 1. Python Basics
-
 #### 2. Lists, some built-in functions
-
 #### 3. Loops
 
-#### 4. Functions, basics
+### II. Python Syntax - Part 2.
+#### 1. Functions, basics
+#### 2. Notebook of -difficult- exercises 
+#### 3. Dictionaries
 
-#### 5. Notebook of -difficult- exercises 
-
-#### 6. Dictionaries
-
-#### 7. Pandas, NumPy : Basics - Part.1
-
-#### 8. Pandas, NumPy : Basics - Part.2
-
-#### 9. Pandas, NumPy : Exercises only - Part.1
+### III. Data-analysis : Basics
+#### 1. Pandas, NumPy : Basics - Part.1
+#### 2. Pandas, NumPy : Basics - Part.2
+#### 3. Pandas, NumPy : Exercises only - Part.1
 
 
 
