@@ -1,4 +1,4 @@
-# Quantrack Python crash course - data-analysis using Python
+# [Quantrack Company Builder](quantrack.io) Python crash course - data-analysis using Python
 ## [Course planning here](https://github.com/quantrack/qt_academy_python_beginners/blob/master/course_plan.pdf)
 
 A very humble series of notebooks for beginners in Python 3. You will also find various presentations on **talks** folders, including our meet-up.
