@@ -30,7 +30,7 @@ A very humble series of notebooks for beginners in Python 3. You will also find 
 
 ### IV. Data-analysis : Intermediate
 
-         1. Data-analysis : Titanic data-set [^1]
+         1. Data-analysis : Titanic data-set <sup>1</sup>
          2. Data-Visualization : Seaborn and Matplotlib - not_uploaded_yet
          3. Statistics and Econometrics - - not_uploaded_yet
 
