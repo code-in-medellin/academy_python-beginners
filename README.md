@@ -30,7 +30,7 @@ A very humble series of notebooks for beginners in Python 3. You will also find 
 
 ### IV. Data-analysis : Intermediate
 
-         1. Data-analysis : Titanic data-set
+         1. Data-analysis : Titanic data-set [^1]
          2. Data-Visualization : Seaborn and Matplotlib - not_uploaded_yet
          3. Statistics and Econometrics - - not_uploaded_yet
 
@@ -43,3 +43,7 @@ We are also on [meet-up](https://www.meetup.com/fr-FR/Quantrack/members/?sort=jo
 Notebooks also include exercises with corrections. Feel free to fork, clone, and pull-request on this repo !
 
 I will share student's projects on this Git and add some more explanations in the notebooks.
+
+
+-------------------------------------------------------------------------------------------------------------------------
+[^1] : You can download Titanic data-set [here](https://gist.github.com/michhar/2dfd2de0d4f8727f873422c5d959fff5)
