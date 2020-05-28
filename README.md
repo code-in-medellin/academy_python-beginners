@@ -9,7 +9,7 @@ A very humble series of notebooks for beginners in Python 3. You will also find 
 * If you want to organize training within your company: https://quantrackacademy.io    
 
 
-## I. Python Syntax - Basics - - notebooks_part_I
+## I. Python Syntax - Basics - notebooks_part_I
 
 ### 1. Python Syntax - Part 1 
 
