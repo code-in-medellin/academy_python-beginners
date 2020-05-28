@@ -9,26 +9,29 @@ A very humble series of notebooks for beginners in Python 3. You will also find 
 * If you want to organize training within your company: https://quantrackacademy.io    
 
 
+## I. Python Syntax - Basics.
 
-### I. Python Syntax - Part 1.
+### 1. Python Syntax - Part 1 - notebooks_part_1
 
          1. Python Basics
          2. Lists, some built-in functions
          3. Loops
 
-### II. Python Syntax - Part 2.
+### 2. Python Syntax - Part 2.
 
          1. Functions, basics
          2. Notebook of -difficult- exercises 
          3. Dictionaries
 
-### III. Data-analysis : Basics
+## II. Data-analysis - Introduction - notebooks_part_2
+
+### 1. Data-analysis : Basics 
 
          1. Pandas, NumPy : Basics - Part.1
          2. Pandas, NumPy : Basics - Part.2
          3. Pandas, NumPy : Exercises only - Part.1
 
-### IV. Data-analysis : Intermediate
+### 2. Data-analysis : Intermediate
 
          1. Data-analysis : Titanic data-set - See Footnote 
          2. Data-Visualization : Seaborn and Matplotlib - not_uploaded_yet
