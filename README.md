@@ -9,9 +9,9 @@ A very humble series of notebooks for beginners in Python 3. You will also find 
 * If you want to organize training within your company: https://quantrackacademy.io    
 
 
-## I. Python Syntax - Basics.
+## I. Python Syntax - Basics - - notebooks_part_I
 
-### 1. Python Syntax - Part 1 - notebooks_part_1
+### 1. Python Syntax - Part 1 
 
          1. Python Basics
          2. Lists, some built-in functions
@@ -23,7 +23,7 @@ A very humble series of notebooks for beginners in Python 3. You will also find 
          2. Notebook of -difficult- exercises 
          3. Dictionaries
 
-## II. Data-analysis - Introduction - notebooks_part_2
+## II. Data-analysis - Introduction - notebooks_part_II
 
 ### 1. Data-analysis : Basics 
 
