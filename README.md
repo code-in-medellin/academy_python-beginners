@@ -1,4 +1,4 @@
-# [Quantrack Company Builder](quantrack.io) - Python crash course
+# [Quantrack Company Builder](https://quantrack.io) - Python crash course
 ## Data-analysis using Python
 ## [Course planning here](https://github.com/quantrack/qt_academy_python_beginners/blob/master/course_plan.pdf)
 
