@@ -34,7 +34,7 @@ A very humble series of notebooks for beginners in Python 3. You will also find 
 ### 2. Data-analysis : Intermediate
 
          1. Data-analysis : Titanic data-set - See Footnote 
-         2. BTCUSDT Candlestick on Binance - Binance API
+         2. BTCUSDT Candlestick on Binance - Binance API - See Footnote
          3. Times Series prediction - not uploaded yet
 
 
@@ -49,3 +49,4 @@ I will share student's projects on this Git and add some more explanations in th
 
 -------------------------------------------------------------------------------------------------------------------------
 [1] : You can download Titanic data-set [here](https://gist.github.com/michhar/2dfd2de0d4f8727f873422c5d959fff5)
+[2] : You need to create an account on https://binance.com and get your API KEY and API SECRET KEY to connect to Binance API.
