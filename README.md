@@ -35,7 +35,7 @@ A very humble series of notebooks for beginners in Python 3. You will also find 
 
          1. Data-analysis : Titanic data-set - See Footnote 
          2. BTCUSDT Candlestick on Binance - Binance API - See Footnote
-         3. Times Series prediction - not uploaded yet
+         3. Set-up an alert system usig smtplib - not uploaded yet
 
 
 If you want more exercises and examples you can check out [hackerrank.com](hackerrank.com), a great website for self-taught programmers. Also, you can check out our blog : https://quantrack.github.io. Our articles are featured in www.secjuice.com , an amazing community-driven Cyber-security blog.    
