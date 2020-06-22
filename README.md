@@ -44,9 +44,6 @@ We are also on [meet-up](https://www.meetup.com/fr-FR/Quantrack/members/?sort=jo
 
 Notebooks also include exercises with corrections. Feel free to fork, clone, and pull-request on this repo !
 
-I will share student's projects on this Git and add some more explanations in the notebooks.
-
-
 -------------------------------------------------------------------------------------------------------------------------
 [1] : You can download Titanic data-set [here](https://gist.github.com/michhar/2dfd2de0d4f8727f873422c5d959fff5)      
 [2] : You need to create an account on https://binance.com and get your API KEY and API SECRET KEY to connect to Binance API.
