@@ -4,7 +4,7 @@
 
 A very humble series of notebooks for beginners in Python 3. You will also find various presentations on **talks** folders, including our meet-up.
 
-* If you want to attend the course  *-it's in spanish*-, please e-mail me at info@quantrack.io, you will be able to join the *spanish-speaking* Slack.  
+* If you want to join the *spanish-speaking* Slack - please e-mail me at info@quantrack.io. 
 
 * If you want to organize training within your company: https://quantrackacademy.io    
 
