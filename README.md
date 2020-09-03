@@ -4,9 +4,11 @@
 
 A very humble series of notebooks for beginners in Python 3. You will also find various presentations on **talks** folders, including our meet-up.
 
-* If you want to join the *spanish-speaking* Slack - please e-mail me at info@quantrack.io. 
+* If you want to join the *spanish-speaking* Slack - please e-mail me at lab@quantrack.io. 
 
-* If you want to organize training within your company: https://quantrackacademy.io    
+* If you want to organize training within your company: https://quantrackacademy.io
+
+* Interested in our work ? https://quantrack.io
 
 
 ## I. Python Syntax - Basics - notebooks_part_I
